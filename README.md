@@ -1,0 +1,1 @@
+# SeqBench-Benchmarking-Sequential-Narrative-Generation-in-Text-to-Video-Models
