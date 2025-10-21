@@ -1,0 +1,355 @@
+index,category,difficulty,model,video_index,video_prompt
+,object,ssma_ss,,1,"Setting: A sunlit kitchen counter with a smooth marble surface beside a bowl of fruit.
+object: A stainless steel blender with a glass jar filled with green smoothie and sharp rotating blades.
+Prompt: The blender activates at high speed, creating a swirling vortex in the jar, then vibrates violently, causing it to skid off the counter and spill the contents mid-air."
+,object,ssma_ss,,2,"Setting: A sunlit kitchen counter with a tilted stainless steel frying pan on high heat.
+object: A spherical ice cube, 1.5 inches in diameter, partially melted and glistening.
+Prompt: The ice cube slides toward the pan__ center, liquefies into a sizzling puddle, then evaporates entirely into a burst of steam within seconds."
+,object,ssma_ss,,3,"Setting: A carpeted bedroom floor with a toy obstacle course and plush barriers.
+object: A blue remote-controlled monster truck, 6 inches tall, with oversized treaded tires.
+Prompt: The truck accelerates over a foam ramp, flips mid-air after clipping a plush dinosaur, then lands upside down and spins its wheels helplessly."
+,object,ssma_ss,,4,"Setting: A rain-slicked stone bridge spanning a narrow, fast-flowing urban canal.
+object: A deflated yellow rubber duck, 4 inches tall, with a faded smile and chipped paint.
+Prompt: The duck drifts into a swirling eddy, is dragged underwater by the current, then resurfaces abruptly upside down with its base exposed."
+,object,ssma_ss,,5,"Setting: A factory conveyor belt system transporting packaged goods under fluorescent lights.
+object: A cardboard box sealed with plastic straps, 12 inches wide, labeled ""FRAGILE.""
+Prompt: The box jostles free from a misaligned strap, tips over the conveyor edge, then crashes onto a lower belt, splitting open to spill its contents."
+,object,ssma_ss,,6,"Setting: A stainless steel kitchen countertop with morning sunlight casting sharp shadows through horizontal blinds.
+object: A silver two-slice pop-up toaster with visible heating coils, crumb tray slightly ajar, and a faint scratch on its front panel.
+Prompt: The toaster's heating elements glow cherry red, rapidly browning two bread slices until smoke wisps emerge, then ejecting them upward."
+,object,ssma_ss,,7,"Setting: A cluttered workshop bench with wood shavings and scattered screws under bright LED task lighting.
+object: A spring-loaded mousetrap with a zinc-plated strike bar, primed and baited with a peanut butter-smeared wooden pedal.
+Prompt: The trap's pedal depresses slightly from a mouse__ nudge, triggers the strike bar to snap downward."
+,object,ssma_ss,,8,"Setting: A child__ bedroom carpet littered with LEGO bricks, lit by a flickering nightlight shaped like a crescent moon.
+object: A wind-up plastic grasshopper toy with oversized rear legs and a chipped green paint job.
+Prompt: The grasshopper__ key rotates three times, leaps forward in a high arc over a LEGO tower, then skids sideways on landing."
+,object,ssma_ss,,9,"Setting: A pinewood picnic table in a grassy park, dappled by sunlight filtered through oak leaves.
+object: A yellow plastic gyroscope with weighted brass edges and a slight wobble in its spin.
+Prompt: The gyroscope spins upright, tilts precariously after a leaf lands on its axis, then topples sideways."
+,object,ssma_ss,,10,"Setting: A granite cliff face at sunrise, lichen-covered and glistening with morning dew.
+object: A fist-sized hailstone with concentric opaque and translucent layers, mid-fall.
+Prompt: The hailstone strikes a protruding rock ledge, shatters into few fragments, then ricochets downward in divergent parabolic paths toward a pine tree below."
+,object,ssma_fo,,1,"Setting: A sunlit rooftop garden with potted herbs and bees hovering near lavender blooms.
+object: A solar-powered garden drone with four rotors, a seed-dispensing hatch, and soil-sensor probes.
+Prompt: The drone hovers at eye level to release a burst of pollinator-attractant mist in addition to flashing its navigation lights."
+,object,ssma_fo,,2,"Setting: A retro diner counter with chrome stools and checkered flooring under neon ""OPEN"" signage.
+object: A jukebox with glowing rainbow tubes, vinyl record carousel, and coin return slot.
+Prompt: The jukebox illuminates alternating color bands along its tubes while also spinning its record carousel and ejecting a vintage quarter from its return slot."
+,object,ssma_fo,,3,"Setting: A cedar sauna interior with heated rocks and steam.
+object: A copper-walled essential oil diffuser with cutouts, releasing aromatic vapor.
+Prompt: The diffuser emits concentric rings of steam in addition to casting tessellated light patterns on the walls while also vibrating to create resonance in nearby water droplets.
+"
+,object,ssma_fo,,4,"Setting: A cozy study room with wooden shelves, soft LED desk lighting, and a faint scent of lavender.
+object: A 10-inch digital photo frame with a matte black bezel, touch controls, and a screen.
+Prompt: The photo frame cycles through vacation snapshots while also displaying live weather updates in the corner as well as playing a soft chime at random intervals."
+,object,ssma_fo,,5,"Setting: A sleek modern kitchen with marble countertops and recessed ceiling lights.
+object: A smart refrigerator with a glass door panel, internal LED strips, and a built-in ice dispenser.
+Prompt: The refrigerator illuminates its interior with cool white light in addition to dispensing crushed ice into a glass."
+,object,ssma_fo,,6,"Setting: A bustling downtown intersection with pedestrians and flickering neon storefronts.
+object: A digital billboard, mounted on a steel pole with rotating hinges.
+Prompt: The billboard flashes a flash-sale promotion for sneakers while also projecting the current time in glowing red numerals."
+,object,ssma_fo,,7,"Setting: A breezy bedroom with sheer curtains fluttering near an open window.
+object: A bladeless electric fan with a silver ring, touch-sensitive controls, and an LED temperature display.
+Prompt: The fan oscillates smoothly to 90 degrees in addition to ramping up to turbo speed while also showing the room__ ambient temperature (23°C) on its base."
+,object,ssma_fo,,8,"Setting: A cozy café with exposed brick walls, steam rising from espresso machines.
+object: A high-end espresso machine with a polished copper boiler, dual pressure gauges, and an LCD screen.
+Prompt: The machine grinds fresh coffee beans while also frothing milk to a velvety texture and illuminates its pressure gauges in pulsating amber light."
+,object,ssma_fo,,9,"Setting: A rainy downtown intersection with cars and neon reflections on wet asphalt.
+object: A solar-powered traffic light with embedded crosswalk symbols.
+Prompt: The light cycles from red to green for vehicles in addition to flashing a white walking figure."
+,object,ssma_fo,,10,"Setting: A marble courtyard plaza with pigeons pecking near benches and scattered autumn leaves.
+object: A tiered stone fountain with LED-lit water jets and a bronze statue centerpiece.
+Prompt: The fountain sprays a synchronized arc of water 6 feet high as well as cycles its LEDs through rainbow hues."
+,object,ssma_sim,,1,"Setting: A dimly lit underground parking garage with concrete pillars and faint echoes of dripping water.
+object: A fire-engine-red electric car charging station with glowing status indicators, a retractable cable reel, and a digital payment terminal.
+Prompt: The station dispenses 50kW of power through its charging cable while its cooling fans whir and simultaneously projects a ""Charging Complete"" notification onto the adjacent wall via laser."
+,object,ssma_sim,,2,"Setting: A moonlit campsite surrounded by pine trees, with embers glowing in a fire pit.
+object: A cylindrical propane camp lantern with adjustable brightness settings, a mosquito-repellent cartridge slot, and a hanging hook.
+Prompt: The lantern emits a warm white beam while releasing citronella vapor from its side vents."
+,object,ssma_sim,,3,"Setting: A cluttered robotics lab with workbenches covered in circuit boards and servo motors.
+object: A humanoid robot with articulated hydraulic limbs, a chest-mounted display screen, and palm-mounted LED projectors.
+Prompt: The robot gestures with both arms in precise Tai Chi movements while solving a Rubik__ Cube with its left hand and simultaneously projecting real-time torque metrics from its palms onto the floor."
+,object,ssma_sim,,4,"Setting: A neon-lit arcade with carpet patterned in geometric shapes and the CRT monitors.
+object: A retro pinball machine with chrome-plated flippers, a backlit scoreboard, and force-feedback solenoids.
+Prompt: The machine launches a steel ball using its spring plunger and simultaneously illuminates its side rails in chasing purple-green patterns."
+,object,ssma_sim,,5,"Setting: A child's playroom with colorful rugs and scattered toys under soft ambient lighting.
+object: A robotic vacuum cleaner with rotating brushes, a UV sanitizing light, and obstacle-detection sensors.
+Prompt: The vacuum moves in a zigzag pattern across the floor while spinning its side brushes to collect debris and simultaneously activating its UV light to sanitize the surface."
+,object,ssma_sim,,6,"Setting: A serene garden pond at dusk, surrounded by weeping willows and floating lily pads.
+object: A decorative stone fountain with three-tiered basins, submerged LED lights
+Prompt: The fountain sprays arcing jets of water into the top basin while cycling its LEDs through a spectrum of colors and simultaneously."
+,object,ssma_sim,,7,"Setting: A high-tech laboratory with whiteboards covered in equations and servers in the background.
+object: A 3D printer with a transparent enclosure, dual extruders, and a cooling fan system.
+Prompt: The printer extrudes molten plastic filament to build a geometric model while circulating cool air through its vents and simultaneously projecting a real-time hologram of the design above its build plate."
+,object,ssma_sim,,8,"Setting: A snowy mountain with ice-coated pine trees under overcast skies.
+object: A diesel-powered snowplow with a rotating auger blade, heated side mirrors, and rooftop hazard lights.
+Prompt: The snowplow clears a 6-foot-wide path of compacted snow while defrosting its mirrors with radiant heat and simultaneously flashing its amber hazard lights in a rapid triple-pulse pattern."
+,object,ssma_sim,,9,"Setting: A tropical beach at noon, palm fronds swing in sea breezes and waves lapping at white sand.
+object: A coconut-shaped portable blender with stainless steel blades, a rechargeable battery, and a leak-proof silicone seal.
+Prompt: The blender crushes ice into fine granules while cooling its exterior with integrated heat sinks and simultaneously displaying a battery percentage via hologram above its lid."
+,object,ssma_sim,,10,"Setting: A neon-lit e-sports arena with crowds and giant LED screens displaying gameplay highlights.
+object: A gaming console with liquid-cooled vents, customizable RGB lighting, and haptic feedback triggers.
+Prompt: The console renders 4K graphics at 120fps while cycling its RGB panels through reactive combat-themed patterns and simultaneously vibrating its chassis to simulate in-game explosions."
+,object,msma_ss,,1,"Setting: A robotics lab with modular workstations, exposed wiring, and hydraulic test rigs under harsh LED lighting.
+objects:
+1. A servo-driven robotic arm (chrome finish, 2ft reach) gripping a rubber-coated test weight.
+2. A pneumatic conveyor belt with pressure-sensitive emergency stop pads.
+3. A ceiling-mounted fire suppression pod filled with powdered retardant.
+Prompt: The robotic arm drops the test weight onto the conveyor belt, triggering its emergency stop mechanism, after which the abrupt halt generates friction heat that activates the suppression pod, coating the entire workstation in yellow retardant dust."
+,object,msma_ss,,2,"Setting: A suburban backyard at twilight, fireflies blinking near a half-built treehouse and scattered tools.
+objects:
+1. A rusted seesaw (6ft long, unbalanced) with a cinderblock on one end.
+2. A wheelbarrow filled with gravel, parked on a slight incline.
+3. A motion-activated floodlight mounted on a wooden fencepost.
+Prompt: The cinderblock slips off the seesaw__ raised end, slamming into the wheelbarrow__ handles and releasing its gravel load, after which the cascading stones trigger the floodlight__ sensor."
+,object,msma_ss,,3,"Setting: A beachside tiki bar during a hurricane warning, palm fronds slapping against bamboo walls.
+objects:
+1.        A propane-powered blender bolted to the counter, vibrating intensely.
+2.        A pyramid of souvenir glass bottles (neon-colored, 8oz each).
+3.        A battery-powered LED __ast Call_ sign dangling from a ceiling hook.
+Prompt: The blender__ harmonic vibration topples the bottle pyramid, shattering glass near the sign__ power cord, after which severed wires spark and ignite the sign__ acrylic casing, melting it into dripping blue plastic."
+,object,msma_ss,,4,"Setting: A marble-floored museum gallery 
+objects:
+1.        A pendulum-style security camera (black dome, 180° sweep) above a statue.
+2.        A pressure-sensitive display podium holding a replica Viking helmet.
+3.        A laser grid alarm system protecting a wall-mounted painting.
+Prompt: The camera__ pendulum swing accidentally nudges the helmet off its podium, which lands on the laser grid__ reset button, subsequently deactivating the beams long enough for a draft to flutter the painting off its hooks."
+,object,msma_ss,,5,"Setting: A storm-damaged marina with docks, overturned kayaks, and choppy waves.
+objects:
+1.        A loose mooring cleat (rusted iron) dangling from a splintered post.
+2.        A fiberglass speedboat bobbing violently on frayed ropes.
+3.        A submerged power cable snakes to a dock light pole.
+Prompt: Waves dislodge the cleat, striking the speedboat__ throttle lever to full open, causing the boat to lurch forward and snap the power cable, which whips back to electrify the saltwater, stunning nearby fish."
+,object,msma_ss,,6,"Setting: A suburban garage with oil-stained concrete and dangling extension cords.
+objects:
+1.        A jacked-up sedan (missing wheel) resting on a hydraulic lift.
+2.        A rolling toolbox (open drawer) filled with greasy wrenches.
+3.        A propane space heater with a cracked fuel line.
+Prompt: The lift__ hydraulic failure drops the sedan onto the toolbox, launching a wrench into the heater__ fuel line, which sprays gas onto the hot coils, igniting a fireball that warps the garage door."
+,object,msma_ss,,7,"Setting: A cluttered auto repair shop with grease-stained floors, hanging tool racks, and fluorescent lights flickering overhead.
+objects:
+1.        A hydraulic car jack (3ft tall, leaking fluid) supporting a raised sedan.
+2.        A rolling oil drum (half-full, unsecured lid) positioned near the jack.
+3.        A wall-mounted circuit breaker with exposed wiring.
+Prompt: The failing jack abruptly lowers the sedan onto the oil drum, crushing its lid and releasing a slick pool of oil, which flows into the circuit breaker__ wiring, subsequently sparking a blue electrical arc that melts a tool rack."
+,object,msma_ss,,8,"Setting: A rooftop greenhouse with fogged glass panels, dripping irrigation lines, and potted citrus trees.
+objects:
+1.        A weighted garden gnome (ceramic, 2ft tall) perched on a tilted shelf.
+2.        A solar-powered sprinkler head with a loose pivot joint.
+3.        A glass rainwater collector mounted on a wooden post.
+Prompt: The gnome slides off the shelf and strikes the sprinkler__ pivot joint, forcing it to spray sideways, which drenches the rainwater collector__ sensor, causing its overflow valve to jettison water onto nearby power strips."
+,object,msma_ss,,9,"Setting: A wind-tunnel testing facility with industrial fans, loose paperwork, and prototype drones on workbenches.
+objects:
+1.        A prototype quadcopter (carbon fiber frame, unsecured battery) on a test rig.
+2.        A desktop oscilloscope with dangling probes.
+Prompt: A gust from the tunnel dislodges the drone__ battery, sending it crashing into the oscilloscope__ probes, which emit a voltage spike, igniting a paper stack."
+,object,msma_ss,,10,"Setting: A coastal lighthouse at high tide, waves crashing against granite rocks below.
+objects:
+1.        A cracked Fresnel lens (6ft diameter) in the lantern room.
+2.        A corroded foghorn valve stuck in the ""open"" position.
+3.        A tide gauge with a floating sensor buoy.
+Prompt: Storm vibrations dislodge a lens fragment, shattering the tide gauge__ buoy, which releases trapped air into the foghorn valve, forcing it to emit a deafening blast that cracks nearby windowpanes."
+,object,msma_fo,,1,"Setting: A minimalist home office with walnut desk surfaces, floor-to-ceiling windows.
+objects:
+1.        Smart Desk Lamp (articulated aluminum arm, touch-sensitive dimmer).
+2.        Wireless Phone Charger (quartz-coated pad, LED charging indicator).
+3.        Bluetooth Speaker (cylindrical mesh body, RGB mood lighting).
+Prompt: The lamp dims to 30% brightness while also the charger pulses its LED from blue to green in addition to the speaker cycling through sunset-themed light gradients."
+,object,msma_fo,,2,"Setting: A sunlit urban park with joggers, oak benches, and scattered fallen leaves.
+objects:
+1.        Automatic Sprinkler (brass nozzle, solar-powered timer).
+2.        Drone with Camera Gimbal (matte black, hovering).
+3.        Smart Bench (solar-panel roof, USB ports).
+Prompt: The sprinkler initiates a misting arc as well as the drone captures a time-lapse burst while also the bench activates its charging ports."
+,object,msma_fo,,3,"Setting: A biosafety lab with stainless steel surfaces, fume hoods, and glowing monitors.
+objects:
+1.        Robotic Pipette Arm (articulated joints, LED tip ejector).
+2.        Centrifuge (digital RPM display, illuminated rotor).
+3.        Air Quality Monitor (wall-mounted, particulate sensor).
+Prompt: The pipette dispenses reagent as well as the centrifuge ramps to 3,000 RPM while also the monitor flashes a ""PM2.5 Safe"" notification."
+,object,msma_fo,,4,"Setting: A beachside cabana with salt-bleached wood, rolling waves, and seabirds pacing around.
+objects:
+1.        Automatic Sunscreen Dispenser (motion-activated nozzle).
+2.        Electric Cooler (touchscreen temp control, UV-resistant casing).
+Prompt: The dispenser sprays sunscreen lotion in a fan pattern while also the cooler adjusts its internal temperature to 4°C."
+,object,msma_fo,,5,"Setting: A modern kitchen with marble countertops, recessed lighting.
+objects:
+1.        Smart Refrigerator (stainless steel, touchscreen display, internal cameras).
+2.        Induction Stovetop (glass surface, holographic heat indicators).
+Prompt: The refrigerator streams a cooking tutorial on its screen while also the stovetop illuminates holographic flame icons."
+,object,msma_fo,,6,"Setting: A tech startup lobby with concrete floors, potted succulents, and a wall-sized LED.
+objects:
+1.        Receptionist Robot (humanoid, silver finish, touchscreen chest panel).
+2.        Self-Check-In Kiosk (touchscreen, retina scanner).
+3.        Holographic Directory (floating 3D map).
+Prompt: The robot greets a visitor with a programmed bow while also the kiosk scans a retina for access in addition to the directory updates meeting room availability in real time."
+,object,msma_fo,,7,"Setting: A mountain campsite at sunrise, dew on tents.
+objects:
+1.        Portable Espresso Maker (hand-cranked, stainless steel).
+2.        Weather Balloon (helium-filled, GPS tracker, camera pod).
+Prompt: The espresso maker dispenses a shot into a tin cup while also the balloon ascends to the sky."
+,object,msma_fo,,8,"Setting: A botanical greenhouse with misting systems, hanging ferns, and sunlight filtering through glass panels.
+objects:
+1.        Robotic Pruning Shears (articulated arm, laser-guided).
+2.        Hydroponic Nutrient Dispenser (transparent tubes, LED alerts).
+3.        Weather Station (wind vane, rain gauge, digital display).
+Prompt: The shears trim a philodendron leaf as well as the dispenser releases nutrient solution while also the station logs a temperature update."
+,object,msma_fo,,9,"Setting: A retro arcade with neon signs, CRT screens, and the vintage consoles.
+objects:
+1.        Pinball Machine (chrome legs, force-feedback flippers).
+2.        Prize Ticket Dispenser (retro red casing, clack-clack mechanism).
+Prompt: The pinball machine launches a silver ball while also the dispenser spools 10 tickets into a pickup tray."
+,object,msma_fo,,10,"Setting: A rooftop solar farm at noon, panels angled toward a cloudless sky.
+objects:
+1.        Solar Tracker (motorized axis, reflective surface).
+2.        Dust Removal Drone (microfiber brushes, hovering at panel height).
+Prompt: The tracker tilts panels to the sun, as well as the drone sweeps dust off a photovoltaic cell."
+,object,msma_sim,,1,"Setting: A stainless steel commercial kitchen during lunch rush, steam rising from boiling pots.
+objects:
+1.        Industrial Espresso Machine (dual boilers, pressure gauge flickering).
+2.        Automatic Dough Mixer (stainless steel bowl, rotating whisk).
+3.        Overhead Exhaust Fan (brushed metal blades, variable speed).
+Prompt: The espresso machine brews six shots simultaneously while the dough mixer kneads focaccia batter and the exhaust fan spins at high RPM, creating a vortex of steam and flour particles."
+,object,msma_sim,,2,"Setting: A wind tunnel testing facility with prototype drones mounted on rigs and monitors displaying airflow data.
+objects:
+1.        Quadcopter Drone (carbon fiber frame, counter-rotating propellers).
+2.        Laser Anemometer (triangulation sensors, red beam grid).
+3.        Hydraulic Gust Generator (oscillating vents, 80mph output).
+Prompt: The drone__ props spin to high RPM for lift as the anemometer maps turbulent airflow, while simultaneously the gust generator blasts a crosswind shear, bending the drone__ frame visibly."
+,object,msma_sim,,3,"Setting: A fast-flowing river cutting through a pine forest, with rocky banks and morning mist hovering above the water.
+objects:
+1. Inflatable Kayak (bright orange, 8-foot length, paddles strapped to sides).
+2. Waterfall (15-foot drop, frothy white cascade hitting a plunge pool).
+Prompt: The kayak spins sideways in a turbulent eddy, its hull buckling under water pressure as the waterfall__ cascade slams into the pool below, creating a circular wave pattern"
+,object,msma_sim,,4,"Setting: A modern living room with hardwood floors, floor-to-ceiling windows, and minimalist decor.
+objects:
+1.        Robot Vacuum (disc-shaped, laser navigation, dustbin indicator).
+2.        LED Floor Lamp (adjustable height, color-temperature control).
+Prompt: The robot vacuum traces a spiral cleaning path and simultaneously the floor lamp transitions from cool white to amber glow."
+,object,msma_sim,,5,"Setting: A nighttime construction site with floodlights, steel girders.
+objects:
+1.        Tower Crane (100ft tall, rotating jib, lifting hook).
+2.        Safety Beacon (rotating red LED, pole-mounted).
+Prompt: The crane lifts a steel beam, and simultaneously the beacon flashes rapidly, casting rotating shadows across the site."
+,object,msma_sim,,6,"Setting: A high-school chemistry lab with laminate counters, fume hoods, and periodic table posters.
+objects:
+1.        Magnetic Stirrer (hotplate-integrated, spinning bar).
+2.        Bunsen Burner (adjustable flame, blue gas jet).
+3.        Digital pH Meter (probe, LCD display).
+Prompt: The stirrer rotates a beaker of solution at high RPM while the burner heats a crucible to over 100°C and simultaneously the pH meter updates its display."
+,object,msma_sim,,7,"Setting: A suburban backyard during a summer barbecue, charcoal smoke and cicada sounds.
+objects:
+1.        Sprinkler System (pop-up nozzles, programmable zones).
+2.        Solar-Powered Lantern (glass orb, dusk-to-dawn sensor).
+Prompt:  The sprinklers spray an arc, and simultaneously the lantern brightens to 100% luminosity, illuminating the patio."
+,object,msma_sim,,8,"Setting: A riverbank at dawn, mist rising over water and reeds swaying.
+objects:
+1.        Waterwheel (wooden paddles, creaking axle).
+2.        Automatic Weather Vane (aluminum, ultrasonic wind sensor).
+Prompt: The waterwheel spins rapidly from current flow while the weather vane pivots over 60 degrees to track shifting wind."
+,object,msma_sim,,9,"Setting: A stormwater drainage canal during heavy rainfall, rushing water carrying debris.
+objects:
+1.        Debris Filter (steel mesh, hydraulic actuators).
+2.        Water Turbine (spinning blades, power generation display).
+Prompt: The filter clamps shut to block a plastic crate while the turbine spins at high RPM from water flow."
+,object,msma_sim,,10,"Setting: A robotics warehouse with high ceilings, autonomous forklifts, and pallet racks.
+objects:
+1.        Autonomous Forklift (laser-guided, lifting claw).
+2.        Inventory Scanner (ceiling-mounted, green laser grid).
+3.        HVAC System (overhead vents, sudden burst mode).
+Prompt: The forklift stacks a pallet while the scanner verifies barcodes and simultaneously the HVAC blasts air to reduce humidity, fogging the scanner__ lens briefly."
+,object,sssa,,1,"Setting: A stainless steel kitchen countertop under bright recessed lighting.
+object: A retro-style chrome toaster with lever-operated slots and visible heating coils.
+Prompt: The toaster ejects two golden-brown slices of bread upward, releasing a wisp of steam."
+,object,sssa,,2,"Setting: A cluttered garage workshop with wood shavings and scattered screws under a single hanging bulb.
+object: A cordless power drill (black body) clamped to a bench vise.
+Prompt: The drill spins clockwise at 1,200 RPM, driving a screw fully into a pine board."
+,object,sssa,,3,"Setting: A sunlit suburban driveway at noon, asphalt radiating heat waves.
+object: A bright orange automatic sprinkler head (rotating nozzle, 6-inch diameter).
+Prompt: The sprinkler head pops up from the ground and sprays a pressurized water arc, glinting in sunlight."
+,object,sssa,,4,"Setting: A marble-floored hotel lobby with potted ferns.
+object: A brass revolving door with four glass panels and hydraulic dampers.
+Prompt: The door completes a full 360° rotation propelled by its weighted base, slowing smoothly to a stop."
+,object,sssa,,5,"Setting: A dimly lit home office with wooden shelves, a cluttered desk, and soft daylight filtering through blinds.
+object: A vintage brass desk lamp with a green glass shade and a pull-chain switch.
+Prompt: The lamp__ chain switch is tugged by a counterweight mechanism, causing the light to flicker on with a warm amber glow."
+,object,sssa,,6,"Setting: A windswept desert highway under a midday sun, asphalt shimmering with heat haze.
+object: A solar-powered roadside emergency beacon (red casing).
+Prompt: The beacon activates automatically, flashing a bright red strobe light in rapid pulses."
+,object,sssa,,7,"Setting: A robotics lab with epoxy resin floors, exposed wiring.
+object: A servo-powered robotic gripper (aluminum claws, hydraulic actuator).
+Prompt: The gripper__ claws clamp shut, crushing an empty soda can into a flattened disk."
+,object,sssa,,8,"Setting: A suburban backyard at dawn, dew glistening on freshly cut grass.
+object: A solar-powered garden fountain (ceramic basin).
+Prompt: The fountain activates at sunrise, shooting a thin arc of water into the air."
+,object,sssa,,9,"Setting: A stormy beach with crashing waves and salt spray misting the air.
+object: A rusted iron buoy (6-foot diameter, cracked bell).
+Prompt: A rogue wave strikes the buoy, triggering the buoy to crash onto the beach."
+,object,sssa,,10,"Setting: A robotics lab with epoxy-coated workbenches and LED task lighting.
+object: A 3D printer (enclosed chamber, glowing extruder).
+Prompt: The printer__ extruder halts abruptly, retracting molten filament."
+,object,mssa,,1,"Setting: A stainless steel industrial kitchen with hanging copper pots, steam vents, and fluorescent lighting.
+objects:
+1.        Toaster (chrome finish, lever-operated).
+2.        Coffee Maker (black plastic, carafe warmer).
+3.        Overhead Exhaust Fan (brushed metal blades).
+Prompt: A power surge triggers all appliances to activate simultaneously: the toaster ejects bread, the coffee maker drips, and the fan spins at max RPM."
+,object,mssa,,2,"Setting: A corporate office floor with cubicles, carpeted floors, and floor-to-ceiling windows at dusk.
+objects:
+1.        Desktop Monitor (LED backlight).
+2.        Laser Printer (white casing, paper tray).
+3.        Desk Lamp (articulated arm, touch dimmer).
+4.        Smart Thermostat (wall-mounted, LCD display).
+5.        USB Desk Fan (plastic blades, oscillating base).
+Prompt: A building-wide power reboot causes all devices to cycle off and on: monitors flicker, printers recalibrate, lamps flash, thermostats reset, and fans spin up briefly."
+,object,mssa,,3,"Setting: A retro arcade with neon signage, CRT screens, and checkered flooring.
+objects:
+1.        Pinball Machines (3 units, chrome legs, backlit scoreboards).
+2.        Prize Dispensers (2 claw cranes, glass enclosures).
+Prompt: A voltage spike forces all machines into demo mode: pinball flippers cycle, dispensers drop plush toys."
+,object,mssa,,4,"Setting: A city intersection at rush hour, neon billboards glowing and car engines idling.
+objects:
+1.        Traffic Lights (4 poles, red/yellow/green LEDs).
+2.        Crosswalk Signals (2 digital countdown timers).
+3.        Streetlights.
+4.        Bus Lane Indicator (overhead LED arrow).
+Prompt: A central traffic control system crashes and synchronizes all signals: traffic lights turned off, crosswalk timers shut down, streetlights turned off, and the bus lane arrow disappears."
+,object,mssa,,5,"Setting: A windy mountaintop observatory with telescopes, satellite dishes.
+objects:
+1.        Weather Vane
+2.        Solar Panels
+3.        Antenna Array
+4.        Security Camera (dome-shaped, motorized pivot).
+Prompt: A gust forces all objects to pivot eastward: the vane spins, panels tilt, antennas creak, and the camera adjusts its angle abruptly."
+,object,mssa,,6,"Setting: A library reading room with oak tables, brass lamps, and floor-to-ceiling bookshelves.
+objects:
+1.        Study Lamps (5 green glass shades, pull-chain switches).
+2.        Automatic Book Return (conveyor belt, scanner).
+3.        Digital Catalog Kiosk (touchscreen, search interface).
+4.        HVAC Vent (ceiling grille, adjustable louvers).
+Prompt: A scheduled ""Closing Time"" command triggers lamps to dim, the book return halts mid-cycle, the kiosk displays ""System Offline,"" and the vent louvers shut."
+,object,mssa,,7,"Setting: A high-end retail store at opening hour, marble floors polished to a mirror finish and mannequins in designer clothing.
+objects:
+1.        Display Case Lighting (6 recessed LED strips, 3000K warm white).
+2.        Motorized Security Shutters (brushed steel, hydraulic lift).
+3.        Digital Price Tags (e-ink screens, 4-inch displays).
+Prompt: A central ""Store Open"" command triggers all systems: LEDs brighten, shutters retract upward, price tags update to ""New Arrival,_."
+,object,mssa,,8,"Setting: A Christmas market at dusk, wooden stalls draped in fairy lights.
+objects:
+1.        Festive String Lights (lots of bulbs, zigzagged between stalls).
+2.        Mechanical Reindeer (animatronic, 4ft tall).
+3.        Hot Chocolate Dispenser (stainless steel, steam vent).
+Prompt: A timer triggers the evening spectacle: lights twinkle, reindeer nod, the dispenser releases cocoa steam."
+,object,mssa,,9,"Setting: A geothermal power plant with shaking turbines, steam vents, and catwalks over molten rock channels.
+objects:
+1.        Pressure Release Valves (10 steel units).
+2.        Turbine Rotors (8ft diameter, glowing red bearings).
+3.        Cooling Towers (concrete, vapor plumes).
+Prompt: An overload protocol forces simultaneous responses: valves blast excess steam, rotors decelerate, and towers eject vapor clouds."
+,object,mssa,,10,"Setting: A smart parking garage with epoxy-coated floors, charging stations.
+objects:
+1.        License Plate Scanners (4 overhead cameras, IR LEDs).
+2.        EV Chargers (6 units, glowing blue status rings).
+3.        Barrier Gates (2 steel arms, hydraulic lift).
+4.        Directional Signage (LED arrows, ceiling-mounted).
+Prompt: A VIP entry command activates all systems: scanners flash IR beams, chargers turn to standby mode, gates rise vertically, and signage arrows pulse green."

@@ -1,0 +1,340 @@
+index,category,difficulty,model,video_index,video_prompt
+,human,ssma_ss,,1,"Setting: A modern kitchen with steel appliances, a marble countertop, and a closed refrigerator.
+Character: A young woman wearing a fitted black apron over a white t-shirt, hair tied in a high bun, and silver hoop earrings.
+Prompt: She opens the refrigerator door with her left hand, retrieves the glass jar of olives with her right hand, unscrews the lid using a quick twisting motion, and pours olives onto a small ceramic plate positioned on the marble countertop."
+,human,ssma_ss,,2,"Setting: A cluttered garage workshop with a wooden workbench, scattered screws, a long wood stick, and a cordless drill lying on a red tool mat.
+Character: A middle-aged mechanic wearing grease-stained blue coveralls, a black baseball cap, and leather work gloves.
+Prompt: He picks up the cordless drill with his right hand and one screw with his left hand, drives the screw fully into place the wood stick, then sets the drill back on the mat while wiping sweat from his forehead with his sleeve."
+,human,ssma_ss,,3,"Setting: A cluttered garage gym with a weight bench, two 15-pound dumbbells on the floor, and a water bottle resting on a rusty shelf.
+Character: A muscular man in his 30s with buzzed blonde hair, wearing gray sweatpants and a sleeveless compression shirt, with a heart rate monitor strapped to his wrist.
+Prompt: Adjusts the bench incline to 45 degrees using a lever on the side, then lies back on the bench and hooks his feet under the support bar, subsequently grabs both dumbbells with a neutral grip, lifts them to his shoulders."
+,human,ssma_ss,,4,"Setting: A bustling outdoor café with a wrought-iron table, a ceramic coffee cup, and a folded newspaper beside a sugar dispenser.
+Character: A businessman in his 50s wearing a gray suit, polished Oxford shoes, and a silver wristwatch.
+Prompt: He picks up the sugar dispenser, taps it twice over his coffee cup to release three granules, then stirs the coffee with a teaspoon in three clockwise rotations."
+,human,ssma_ss,,5,"Setting: A dimly lit photography studio with a tripod-mounted camera, a white backdrop, a stool placed 2 meters from the camera.
+Character: A 30s photographer wearing a black turtleneck, fingerless gloves, and a camera strap crossbody.
+Prompt: She adjusts the camera’s focus ring with her thumb and index finger, steps back to sit on the stool, and raises both hands to frame a ""square"" gesture with her thumbs and forefingers directed at the test subject."
+,human,ssma_ss,,6,"Setting: A sunny park bench surrounded by autumn trees, with a reusable water bottle and wireless earbuds case beside a small backpack.
+Character: A jogger in his late 20s wearing neon-green running shoes, black compression shorts, and a sweat-wicking tank top, with a fitness tracker on his wrist.
+Prompt: He sits on the bench and checks his fitness tracker by raising his wrist, snaps the earbuds case open to retrieve the left earbud, inserts it into his left ear, and then sprints off the bench."
+,human,ssma_ss,,7,"Setting: A study carrel with a desk, a stack of hardcover books, a laptop displaying a half-typed essay, and a highlighter pen on the desk.
+Character: A student in her early 20s wearing round glasses, an oversized knit sweater, and fingerless gloves, hair in a messy ponytail.
+Prompt: She pulls a thick reference book from the middle of the stack with both hands, flips pages rapidly using her thumb until a page, then underlines a paragraph with the highlighter."
+,human,ssma_ss,,8,"Setting: An elementary school classroom with a chalkboard covered in math problems, an eraser, and a piece of chalk on the ledge.
+Character: A teacher in her 30s wearing a floral dress and cardigan standing in front of the chalkboard facing the chalkboard.
+Prompt: She grabs the eraser with her right hand, sweeps it diagonally across the chalkboard to clear a space, and picks up the chalk with her other hand."
+,human,ssma_ss,,9,"Setting: A rooftop garden at dusk with hanging string lights, a coiled green hose attached to a spigot, and wilted basil plants in pots.
+Character: A gardener in his 50s wearing muddy knee pads, a wide-brimmed hat, and a tool belt holding pruning shears.
+Prompt: He twists the spigot handle clockwise until water spurts from the hose nozzle, pinches the hose tip to create a pressurized spray arc, and then directs the stream at the basil plants."
+,human,ssma_ss,,10,"Setting: A rock-climbing gym with colored, textured handholds, a chalk bag clipped to a carabiner, and a safety harness on a wooden bench.
+Character: A climber in his late 20s wearing fingerless gloves, cargo shorts, and a sweatband around his wrist.
+Prompt: He dips his hands into the chalk bag, grips a purple handhold with his left hand, then shifts his weight to reach a higher green hold."
+,human,ssma_fo,,1,"Setting: A bright, cluttered kitchen with stainless steel appliances, a marble island, and a hanging rack of copper pots.
+Character: A chef in a white apron, sporting a beard and a bandana.
+Prompt: The chef wipes flour off the countertop with a cloth while also tossing a dish towel into a woven hamper in addition to adjusting the temperature knob on the stove with his elbow."
+,human,ssma_fo,,2,"Setting: A sunlit living room with a plush gray sofa, potted ferns, and a wall adorned with abstract art and a digital thermostat.
+Character: A young woman in oversized glasses, wearing a chunky knit sweater and joggers.
+Prompt: She adjusts the thermostat with one hand and watering a small fern using a ceramic watering can, then straightening a tilted picture frame on the wall with her elbow."
+,human,ssma_fo,,3,"Setting: A home office with a standing desk, a ring light, and shelves filled with succulents and tech gadgets.
+Character: A person with a shaved head, wearing a graphic tee with a cat meme, typing furiously on a mechanical keyboard.
+Prompt: He types a rapid sentence with his left hand and sipping coffee from a mason jar then flicking the adjustable brightness setting on their desk lamp by using his right hand.
+"
+,human,ssma_fo,,4,"Setting: A backyard garden with raised flower beds, a coiled hose near a hydrangea bush, and a tool bench with gardening supplies.
+Character: An elderly man in a wide-brimmed sunhat, denim overalls, and muddy gloves, kneeling on a foam pad.
+Prompt: He prunes dead leaves from a rose bush with shears as well as nudges the hose nozzle to stop dripping "
+,human,ssma_fo,,5,"Setting: A cluttered garage with a vintage motorcycle on a lift, a toolbox spilling wrenches, and an oil-stained concrete floor.
+Character: A mechanic with grease-streaked arms, wearing a red bandana and coveralls, inspecting a tire.
+Prompt: They check the motorcycle’s tire pressure with a gauge while also wiping their hands on a rag tucked in their pocket and kicking a loose wrench back into the toolbox."
+,human,ssma_fo,,6,"Setting: A cozy café with exposed brick walls, wooden tables cluttered with latte art magazines, and a chalkboard menu hanging on the counter.
+Character: A barista wearing a black apron over a band tee, his hair tied back in a neon scrunchie.
+Prompt: The barista wipes espresso splatter off the counter with a rag in addition to flipping the chalkboard menu’s ""OPEN"" sign to the side with his elbow."
+,human,ssma_fo,,7,"Setting: A sterile gym with mirrored walls, rubber flooring, and a rack of dumbbells next to a folded yoga mat.
+Character: A fitness instructor in high-waisted leggings and a crop top, their hair in a sleek ponytail, holding a Bluetooth speaker.
+Prompt: They adjust the thermostat with a free hand as well as sliding a pair of 10lb dumbbells back into alignment and wipe sweat off a weight bench with a microfiber cloth."
+,human,ssma_fo,,8,"Setting: A library with floor-to-ceiling bookshelves, a rolling ladder, and a study carrel littered with sticky notes.
+Character: A librarian wearing a tweed blazer and fingerless gloves, balancing a stack of hardcovers.
+Prompt: She straightens a crooked ""Quiet Please"" sign on a shelf in addition to nudging a stray book back into alignment with her hip."
+,human,ssma_fo,,9,"Setting: A forest campsite with a fire pit, a sagging nylon tent, and a folding table cluttered with a map and compass.
+Character: A hiker in a waterproof jacket and hiking boots, wearing a headlamp, crouching to adjust a tent stake.
+Prompt: He pokes the fire with a stick to reignite flames in addition to tightening a loose tent rope with one hand and glancing at the compass to confirm its orientation."
+,human,ssma_fo,,10,"Setting: A boutique clothing store with circular garment racks, a full-length mirror, and a checkout counter.
+Character: A retail worker in a branded polo shirt, folding a cashmere sweater.
+Prompt: He smooths wrinkles from a silk blouse on a hanger while also adjusting a mannequin’s tilted sunhat."
+,human,ssma_sim,,1,"Setting: A busy café with a counter full of coffee orders, an espresso machine steaming, and a chalkboard menu behind the barista.
+Character: A barista in her mid-20s wearing a black apron, a nose ring, and a messy bun.
+Prompt: She steams milk with her right hand while simultaneously scribbling a customer’s name on a to-go cup with her left hand."
+,human,ssma_sim,,2,"Setting: A corporate office with a glass-walled meeting room, a laptop displaying a presentation, and a wireless mouse on the desk.
+Character: A business executive in his 40s wearing a navy suit, a smartwatch, and polished dress shoes, sitting in a swivel chair.
+Prompt: He scrolls through slides with the mouse while maintaining steady eye contact with a colleague across the table."
+,human,ssma_sim,,3,"Setting: A crowded city pier with seagulls circling, and tourists taking photos.
+Character: A busker in rainbow suspenders and striped pants, balancing on a unicycle.
+Prompt: Pedaling the unicycle in smooth circles while juggling three flaming torches with their right hand."
+,human,ssma_sim,,4,"Setting: A home kitchen with a frying pan, a wooden spatula, and ingredients on the counter.
+Character: A home cook in his late 20s wearing an apron, a messy ponytail, and flour-dusted sweatpants.
+Prompt: He flips a pancake with the spatula while pouring the ingredients into the pan."
+,human,ssma_sim,,5,"Setting: A modern office workstation with dual monitors, a wireless keyboard, and a mug of coffee beside a smartphone.
+Character: A project manager in his 30s wearing a fitted dress shirt, smartwatch, and headset, with slightly tousled hair.
+Prompt: He types rapidly on the keyboard with both hands while simultaneously nodding in agreement during a video conference call displayed on his secondary monitor."
+,human,ssma_sim,,6,"Setting: A bustling city sidewalk with cobblestones, a small gathered crowd, and a guitar case open for tips.
+Character: A street musician in her 20s wearing a floppy hat, fingerless gloves, and layered bohemian-style clothing.
+Prompt: She plays a rhythmic guitar melody with her right hand while simultaneously keeping time by tapping her left foot in perfect synchronization.
+"
+,human,ssma_sim,,7,"Setting: A suburban kitchen with breakfast dishes on the counter, a toddler's high chair, and a news program playing on a wall-mounted TV.
+Character: A parent in his late 30s wearing pajama pants and a messy bun, with a baby monitor clipped to his waistband.
+Prompt: He stirs a pot of oatmeal on the stove with his right hand while simultaneously using his left hand to prevent a toddler from grabbing a kitchen utensil."
+,human,ssma_sim,,8,"Setting: A mirrored gym with rubber flooring, weight racks, and floor-to-ceiling windows overlooking a city skyline.
+Character: A muscular person in a sleeveless tank top and compression shorts, wearing lifting gloves and a heart-rate monitor on their wrist.
+Prompt: Performing bicep curls with alternating arms while balancing on the balls of their feet and counting reps aloud in a steady, breathy tone."
+,human,ssma_sim,,9,"Setting: A sunlit art studio with canvases leaning against walls, a palette of vibrant oils, and classical music playing from a vintage radio.
+Character: A painter in his 50s wearing a stained smock, round spectacles, and a beret, standing before an easel.
+Prompt: He blends colors on the palette with his right hand while simultaneously tilting his head to examine the painting's composition from different angles."
+,human,ssma_sim,,10,"Setting: A high-end restaurant kitchen with flaming woks, a wall of copper pans, and servers rushing past with trays.
+Character: A head chef in double-breasted whites, a sweat-soaked bandana.
+Prompt: Tossing vegetables in a pan with his dominant hand while simultaneously using tongs in his other hand to flip a steak.
+"
+,human,msma_ss,,1,"Setting: A modern office breakroom with a stainless steel coffee machine, scattered mugs, and a bulletin board covered in memos.
+Characters:
+1. A tired intern in a wrinkled button-down carrying three empty mugs
+2. A senior manager in a sharp blazer waiting by the machine
+3. An IT worker in a graphic tee holding a laptop
+Prompt:
+The intern places the mugs on the counter, which causes the manager to press the espresso button, prompting the IT worker to quickly move their laptop aside as steaming coffee pours into the first mug."
+,human,msma_ss,,2,"Setting: A sunny neighborhood playground with metal monkey bars, wood chips, and a spinning merry-go-round.
+Characters:
+1. A 7-year-old kid in dinosaur pajamas hanging from the bars
+2. The kid’s older sibling in basketball shorts standing below
+3. A daycare worker in a bright vest rushing over
+Prompt:
+The child loses grip and falls from the bars which causes the sibling to lunge forward with outstretched arms, prompting the daycare worker to sprint across the wood chips as the older sibling partially breaks the fall."
+,human,msma_ss,,3,"Setting: A packed music venue with strobe lights, a mosh pit, and security guards along the stage.
+Characters:
+1. A crowd surfer in a band tee being passed overhead
+2. A security guard in a black polo reaching upward
+Prompt:
+The crowd passes the surfer toward the stage which causes the security guard to grab his torso down to the ground for his safety."
+,human,msma_ss,,4,"Setting: A crowded bistro with checkered tablecloths, a dessert cart, and hanging copper pans.
+Characters:
+1.         A waiter balancing three plates
+2.         A diner in a suit pushing back her chair
+3.         A busboy holding a tray of clean glasses
+Prompt:
+The diner stands up which causes the waiter to jerk sideways, prompting the busboy to raise his tray defensively as one of the glasses crashes to the floor."
+,human,msma_ss,,5,"Setting: A bustling airport security checkpoint with conveyor belts, plastic bins, and a metal detector.
+Characters:
+1.         Business traveler in navy suit struggling with laptop bag
+2.         TSA agent in uniform with gloves holding a scanner
+Prompt:
+The traveler drops his keys into the bin which causes the TSA agent to motion him forward through the metal detector."
+,human,msma_ss,,6,"Setting: An elegant reception hall with floral centerpieces, champagne flutes, and a three-tiered cake.
+Characters:
+1.         Clumsy waiter in black vest carrying a tray
+2.         Bride in white dress turning suddenly
+3.         Groom in tuxedo lunging forward
+Prompt:
+The waiter trips on a tablecloth which causes the bride to spin around, prompting the groom to reach out as the waiter's tray collides with the cake stand."
+,human,msma_ss,,7,"Setting: A busy nurse's station with computers on wheels, medication carts.
+Characters:
+1.         Day-shift nurse in flower-print scrubs holding charts
+2.         Night-shift nurse in blue scrubs reaching for coffee
+3.         Doctor in white coat approaching quickly
+Prompt:
+The day nurse hands off the clipboard which causes the night nurse to set down her cup, prompting the doctor to grab the charts mid-air as the coffee spills across the counter."
+,human,msma_ss,,8,"Setting: A Hollywood soundstage with dangling lights, camera tracks, and a fake explosion rig.
+Characters:
+1.         A stuntman in tactical gear running from flames
+2.         Camera operator in vest tracking with camera
+3.         Assistant director in headset holding a clipboard
+Prompt:
+The stuntman trips on a cable which causes the camera operator to pivot sharply, prompting the AD to dive forward as the camera tilts dangerously toward craft services."
+,human,msma_ss,,9,"Setting: A premium sushi bar with wood counters, wasabi grinders, and a glass display of glistening fish.
+Characters:
+1.         Head chef in indigo headband slicing toro
+2.         Apprentice in white kerchief plating garnishes
+3.         Regular customer in silk shirt reaching for chopsticks
+Prompt:
+The chef slides nigiri across the counter which causes the apprentice to dab wasabi, prompting the customer to reach out for the nigiri."
+,human,msma_ss,,10,"Setting: A corporate office hallway with flashing strobes, emergency exit signs, and papers fluttering from abandoned desks.
+Characters:
+1.         Floor warden in an orange vest pointing to exits
+2.         Anxious employee clutching laptop to chest
+3.         Security guard holding door open with a foot
+Prompt:
+The employee’s laptop charger snags on the doorknob, causing the employee to fall down to the floor, prompting the guard to brace the fire door."
+,human,msma_fo,,1,"Setting: A cozy coffee shop with exposed brick walls, marble countertops, and an espresso machine.
+Characters:
+Barista in apron polishing porcelain cups
+A student with blue highlights writing something in his notebook
+An elderly man in a tweed cap folding a newspaper
+Prompt: The barista steams milk for a cappuccino while the student highlights text in his notebook, and meanwhile, the man carefully solves a crossword puzzle in the newspaper margins."
+,human,msma_fo,,2,"Setting: A mirrored fitness center with rubber flooring, weight racks.
+Characters:
+A bodybuilder in a neon tank top doing lateral raises
+Yoga instructor in lavender leggings holding tree pose
+Receptionist in polo shirt sanitizing dumbbells
+Prompt: The bodybuilder grunts through shoulder presses while the instructor flows into warrior II pose, and separately, the receptionist rearranges kettlebells on a rack."
+,human,msma_fo,,3,"Setting: A vaulted reading room with oak study carrels, green lamps, and the scent of old paper.
+Characters:
+Librarian in cardigan reshelving books
+Graduate student annotating a thesis draft
+Teenager scrolling screen with muted phone
+Prompt: The librarian alphabetizes novels while the student writes margin notes, and at the same time, the teen silently mouths along to a dance video."
+,human,msma_fo,,4,"Setting: A grassy knoll with checkered blankets, wicker baskets.
+Characters:
+Woman in sundress
+Boy in baseball cap flying a dragon kite
+Jogger with waist pack checking smartwatch
+Prompt: The woman cores strawberries with a paring knife while the boy unspools kite string, and separately, the jogger stretches their hamstrings against a tree."
+,human,msma_fo,,5,"Setting: A north-lit loft with easels, clay-smeared wheels, and drying canvases leaning against walls.
+Characters:
+Potter in denim apron centering clay
+Painter in smock blending oils
+Sculptor wire-brushing a bronze cast
+Prompt: The potter throws a vase on the wheel while the painter mixes oil for color, and meanwhile, the sculptor chips excess plaster from a bust."
+,human,msma_fo,,6,"Setting: An underground station with flickering lights, mosaic-tiled walls, and digital arrival boards blinking orange delays.
+Characters:
+Businesswoman in trench coat checking a wristwatch
+Street musician tuning a guitar
+Prompt: The businesswoman refreshes a transit app on her phone while the musician adjusts a capo on the fretboard."
+,human,msma_fo,,7,"Setting: Open-air stalls with striped awnings, crates of heirloom tomatoes, and bees circling overripe peaches.
+Characters:
+Vendor in denim apron weighing purple carrots
+Food blogger angling a ring light
+Toddler clutching a half-eaten pretzel
+Prompt: The vendor bags rainbow chard while the blogger adjusts camera, and meanwhile, the toddler licks salt crystals off their fingers."
+,human,msma_fo,,8,"Setting: A modern loft with hanging succulents, standing desks, and a malfunctioning espresso machine.
+Characters:
+Freelancer in noise-canceling headphones debugging code
+Startup founder sketching wireframes on glass
+Barista refilling oat milk carafes
+Prompt: The freelancer mutters while the founder diagrams user flows, and independently, the barista wipes coffee grounds from a grinder."
+,human,msma_fo,,9,"Setting: Art deco interior with marble floors, rotating doors.
+Characters:
+Bellhop polishing brass luggage cart handles
+Concierge stamping check-out forms
+Guest in bathrobe sampling tea sachets
+Prompt: The bellhop buffs a nameplate while the concierge files room keys, and at the same time, the guest sniffs an earl grey packet suspiciously."
+,human,msma_fo,,10,"Setting: Humid glass-domed space, rare orchids in bloom, and butterfly pupae hanging from racks.
+Characters:
+Horticulturist measuring soil pH
+Tour guide pointing out carnivorous plants
+Volunteer watering air plants
+Prompt: The horticulturist calibrates a moisture meter while the guide adjusts a headset microphone, and separately, the volunteer mists moss with a spray bottle."
+,human,msma_sim,,1,"Setting: A Hollywood backlot with camera cranes, coiled cables, and craft services tables under pop-up tents.
+Characters:
+A cinematographer in a bucket hat adjusting focus marks
+Lead actor in prosthetic makeup practicing lines
+Gaffer in toolbelt securing a C-stand
+Prompt: The cinematographer checks the depth of field through the viewfinder while the actor rehearses a monologue in mirror gestures, and simultaneously, the gaffer tightens a sandbag weight - all preparing for the next take under harsh work lights."
+,human,msma_sim,,2,"Setting: A hospital ER with crash carts, curtained bays, and simulation mannequins on gurneys.
+Characters:
+Doctor palpating a practice dummy's abdomen
+Nurse programming IV pump settings
+Med student taking simulated vitals
+Prompt: The nurse adjusts dopamine drip rates, and at the same time, the med student documents findings on a trauma flowchart."
+,human,msma_sim,,3,"Setting: A cobblestone square with food trucks, hanging lanterns, and crowds circling performance artists.
+Characters:
+Henna artist tracing mandalas on a tourist's hand
+Breakdancer executing windmills on cardboard
+Corn vendor shucking ears over glowing coals
+Prompt: The artist swirls indigo dye from a cone tip while the dancer spins on his back, and simultaneously, the vendor flips roasting corn with metal."
+,human,msma_sim,,4,"Setting: A university research facility with fume hoods, centrifuge hum, and CRISPR posters on cinderblock walls.
+Characters:
+Postdoc pipetting reagents into PCR tubes
+Lab manager calibrating a nanodrop device
+Undergrad labeling cryovials with shaking hands
+Prompt: The postdoc aliquots master mix while the manager verifies RNA concentrations, and at the same time, the student writes sample IDs in frost-covered gloves."
+,human,msma_sim,,5,"Setting: An industrial warehouse with colored gels, smoke machines, and dangling chain props.
+Characters:
+Lighting tech programming moving head fixtures
+Stylist steaming wrinkles from a leather jacket
+Prompt: The tech cues strobe effects, and simultaneously, the stylist adjusts a wardrobe rack."
+,human,msma_sim,,6,"Setting: A high-pressure kitchen with flaming woks, hanging copper pots, and ticket machines spitting out orders.
+Characters:
+Head chef in stained whites deglazing a pan
+Sous chef piping quenelles onto plates
+Dishwasher stacking ceramic bowls with clattering noise
+Prompt: The chef flames a cognac sauce while the sous chef tweezers microgreens onto steak, and simultaneously, the dishwasher slams stacked ramekins into steam cabinets."
+,human,msma_sim,,7,"Setting: A cramped backstage area with costume racks, makeup mirrors, and a countdown clock flashing ""5 MINUTES.""
+Characters:
+Lead actor stitching a torn doublet sleeve
+Stagehand adjusting pulley ropes for scenery
+Makeup artist spraying hairspray clouds
+Prompt: The actor sews costume sequins under a dangling bulb while the stagehand cranks fly system gears, and at the same time, the artist blasts a wig with aerosol glitter."
+,human,msma_sim,,8,"Setting: A subway platform with flickering departure boards, sticky floors, and screeching brakes echoing through tunnels.
+Characters:
+Businessman aligning tie while holding latte
+Street violinist rosining bow
+Cleaner squeegeeing graffiti off windows
+Prompt: The businessman checks stock prices on his Apple Watch while the musician tunes A-string harmonics, and simultaneously, the cleaner scrubs bubblegum off bench legs."
+,human,msma_sim,,9,"Setting: A cluttered workspace with oscilloscopes, soldering fumes, and CRT monitors stacked precariously.
+Characters:
+Technician probing motherboard circuits
+Apprentice stripping wire insulation
+Customer testing headset
+Prompt: The technician reflows chips under a microscope while the apprentice crimps connectors, and simultaneously, the customer taps beats on cracked headset."
+,human,msma_sim,,10,"Setting: A converted rooftop with repurposed rain barrels, humming hydroponics, and pigeon deterrent spinners.
+Characters:
+Gardener grafting tomato stems
+Yoga instructor holding crow pose
+Photographer adjusting drone gimbal
+Prompt: The gardener inoculates mycelium into logs while the instructor flows into a pose, and simultaneously, the photographer calibrates drone controls."
+,human,sssa,,1,"Setting: A stainless steel kitchen with rain-streaked windows, a bubbling pasta pot, and herb cuttings on a marble counter.
+Character: A middle-aged woman with silver-streaked hair, wearing a flour-dusted apron over a polka dot dress.
+Prompt: The woman pours water from a kettle into a ceramic mug."
+,human,sssa,,2,"Setting: A windy hilltop park with dandelion seeds floating, wooden benches, and distant ice cream truck.
+Character: A teenage boy in ripped jeans and graphic tee, skateboard tucked under arm.
+Prompt: The boy tosses a blue frisbee in a high diagonal arc across the grassy field."
+,human,sssa,,3,"Setting: A corporate conference room with glass walls, a wilting snake plant, and PowerPoint slides projected on the screen.
+Character: A young executive in a pinstripe suit, polished oxfords, and wristwatch.
+Prompt: The executive points at the screen by using a pen."
+,human,sssa,,4,"Setting: A neon-lit boxing gym with heavy bag chains creaking, chalk clouds, and faded motivational posters.
+Character: A muscular fighter in red Everlast gloves, hand wraps peeking from beneath.
+Prompt: The fighter performs a single explosive jump rope skip."
+,human,sssa,,5,"Setting: A cobblestone alley at dawn with overflowing trash bins, stray cats, and dripping fire escapes.
+Character: A street dancer in an oversized hoodie and high-top sneakers.
+Prompt: The dancer executes a precise six-step heel-toe shuffle pattern."
+,human,sssa,,6,"Setting: A dimly lit library with towering oak bookshelves, cracked leather armchairs, and dust motes floating in sunbeams.
+Character: An elderly librarian in a tweed vest, half-moon glasses perched on her nose.
+Prompt: The librarian stamps a due date on a book's checkout card with a sharp thud."
+,human,sssa,,7,"Setting: A wet city sidewalk after rain, with neon shop signs reflecting in puddles.
+Character: A delivery rider in a neon yellow jacket, balancing a stacked pizza bag on his bike.
+Prompt: The rider holds the stacked pizza bag and kicks down his bike stand."
+,human,sssa,,8,"Setting: A pottery studio with spinning kick wheels, clay-splattered aprons, and drying mugs on wire racks.
+Character: A ceramic artist with clay-caked fingers, wearing a denim work shirt.
+Prompt: The artist makes a decisive thumb indentation in the center of a spinning clay mound."
+,human,sssa,,9,"Setting: A ballet studio with floor-to-ceiling mirrors, barres, and piano.
+Character: A teenage dancer in black leotard, adjusting her pointe shoe ribbons.
+Prompt: The dancer executes a single crisp tendu to the front, extending her leg fully."
+,human,sssa,,10,"Setting: A farmer's market stall with heirloom tomatoes, bees circling overripe peaches, and handwritten price signs.
+Character: A vendor in a straw hat, apron pockets overflowing with twist ties.
+Prompt: The vendor tears off a sheet of brown butcher paper with a swift horizontal motion."
+,human,mssa,,1,"Setting: A bustling urban plaza lined with modern glass buildings and colorful street art.
+Characters: Four distinct individuals: a tall man in a charcoal suit with a patterned tie, a young woman sporting a vibrant yellow blouse and denim jeans, a middle-aged man wearing a crisp white shirt with suspenders, and a stylish woman in a green dress with a fashionable hat.
+Prompt: All four people simultaneously raise their right hand in a unified wave, standing in a loosely arranged group with each individual clearly visible, executing the motion in perfect unison."
+,human,mssa,,2,"Setting: A sun-drenched park featuring a wide grassy field bordered by blooming flower beds and a serene pond in the background.
+Characters: Three people: a middle-aged man with salt-and-pepper hair wearing a navy polo shirt and khaki shorts, a young woman with long auburn hair in a floral summer dress, and a teenage boy in a sporty red t-shirt and black shorts.
+Prompt: All three individuals jump simultaneously in a light, joyful hop, maintaining a side-by-side formation with slight variations in timing that still achieve overall synchrony."
+,human,mssa,,3," Setting: A modern office lobby with polished marble floors, sleek contemporary furniture, and large windows flooding the area with natural light.
+Characters: Two professionals: a man in a sharp black suit with a crisp white shirt and a subtle patterned tie, and a woman in a tailored blue blazer paired with a pencil skirt and elegant accessories.
+Prompt: Both individuals simultaneously clap their hands once in a clear, synchronized gesture, standing adjacent to each other near a minimalist reception desk."
+,human,mssa,,4,"Setting: A bustling coffee shop with rustic wooden tables, a chalkboard menu on the wall, and warm lighting filling the space.
+Characters: Three individuals standing near the counter: a woman with short brown hair in a yellow cardigan, a man with a beard wearing a gray hoodie, and a teenager with glasses in a red flannel shirt.
+Prompt: All three people simultaneously raise their coffee cups, clinking them together in a celebratory toast, smiling at each other in unison."
+,human,mssa,,5,"Setting: A scenic hiking trail with green trees lining the path and a clear blue sky overhead, stretching out to distant mountains.
+Characters: Four hikers with backpacks: a man with a baseball cap in a blue jacket, a woman with long blonde hair in a green fleece, a teenager with a ponytail wearing a red sweatshirt, and a boy with curly hair in a yellow jacket.
+Prompt: All four hikers simultaneously take a step forward, lifting their right foot and pausing for a moment before continuing the hike."
+,human,mssa,,6,"Setting: A spacious dance studio with mirrored walls, hardwood floors, and a bar for ballet practice.
+Characters: Three dancers in leotards: a tall woman with brown hair in a bun, a man with short black hair in a black shirt, and a young girl with blonde hair in a ponytail.
+Prompt: All three dancers simultaneously perform a plié, bending their knees and lowering their bodies in perfect sync while keeping their arms extended outward."
+,human,mssa,,7,"Setting: A large library with high bookshelves, warm lighting, and rows of wooden tables for reading.
+Characters: Two students at a table: a woman with glasses wearing a white sweater and a man with short hair in a plaid shirt.
+Prompt: Both students simultaneously turn the pages of their books, one page at a time, while maintaining their focus on reading."
+,human,mssa,,8,"Setting: A bright, airy kitchen with a marble countertop, fresh vegetables on the table, and an oven in the background.
+Characters: Four people wearing aprons: a man with a beard in a blue apron, a woman with long dark hair in a red apron, a child in a yellow apron, and a teen with short hair in a green apron.
+Prompt: All four people simultaneously chop vegetables with their knives."
+,human,mssa,,9,"Setting: A sunny outdoor basketball court with a chain-link fence, bright blue sky, and a hoop at either end.
+Characters: Three players in basketball jerseys: a tall man with short black hair in a red jersey, a medium-height woman with ponytail in a blue jersey, and a short man with curly hair in a white jersey.
+Prompt: All three players simultaneously jump and attempt a layup, reaching the peak of their jumps in unison with arms extended toward the basket."
+,human,mssa,,10,"Setting: A quiet office meeting room with a wooden conference table, a projector screen at the front, and comfortable chairs around the table.
+Characters: Four colleagues in business attire: a man with short brown hair in a black suit, a woman with shoulder-length blonde hair in a navy dress, a young man with glasses in a gray blazer, and a middle-aged woman with curly hair in a white blouse.
+Prompt: All four people simultaneously raise their hands to ask a question, their hands held up at the same height in perfect unison."
